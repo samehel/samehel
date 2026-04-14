@@ -24,23 +24,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samehel&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=samehel&theme=ayu-mirage&hide_border=false)<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehel&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
-</p>
-<br/>  
-
-## ✍️ A Great quote from a great dev
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="animated" />
-</p><br/>
 
 ---
 <br/>
