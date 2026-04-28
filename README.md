@@ -27,7 +27,7 @@ experience:
   freelance: 6+ years
   corporate: 3+ years
 location: Cairo, Egypt
-citizenship: Canadian, Egyptian
+citizenship: Canadian
 open_to: Remote · Relocation to Canada
 stack_focus:
   - C# / .NET / ASP.NET Core
@@ -96,8 +96,9 @@ education:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=samehel&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samehel&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samehel&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samehel&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samehel&theme=github_dark&utcOffset=2" />
 
 </div>
 
@@ -107,20 +108,7 @@ education:
 
 <div align="center">
 
-<a href="https://samehel.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=00D9FF" />
-</a>
-<a href="https://linkedin.com/in/sameh-elwakeel" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/samehel" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://dev.to/samehel" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-
-<br/><br/>
+<a href="https://samehel.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=safari&logoColor=00D9FF" /></a> <a href="https://linkedin.com/in/sameh-elwakeel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="https://github.com/samehel" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://dev.to/samehel" target="_blank"><img src="https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=samehel&icon=3&color=6)](https://visitcount.itsvg.in)
 
